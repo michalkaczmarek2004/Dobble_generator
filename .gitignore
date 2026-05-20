@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated Dobble data
+Model_data/output_cards/
+Model_data/*.png
+symbols
+symbols/*.png
+Results
+Results/*.pdf
+dobble_library/*.xlsx
+
+# Logs / temporary files
+*.log
+*.tmp
